@@ -12,3 +12,5 @@ You must be facing the camera in order to get the most accruate answers. this ca
 
 The code works by going through example pictures to identify if you are a human. 
 
+## The Video
+https://www.youtube.com/watch?v=dBHZ0BQzwAg
